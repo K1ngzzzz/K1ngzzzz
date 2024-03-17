@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @K1ngzzzz
-- 👀 I’m interested in sports, reading and some fashion.
+- 👀 I’m interested in FinTech, project management and website design.
 - 🌱 I’m currently learning the basics of html, css and eventually, python and javascript.
 - 💞️ I’m looking to collaborate on any basic projects to get started in my coding journey.
 - 📫 To contact me. 
