@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @K1ngzzzz
-- 👀 I’m interested in FinTech, project management and website design.
-- 🌱 I’m currently learning the basics of html, css and eventually, python and javascript.
+- 👀 I’m interested in Tech and Fintech
+- 🌱 I’m currently learning the basics python, with future plans to also learn javascript and other languages
 - 💞️ I’m looking to collaborate on any basic projects to get started in my coding journey.
-- 📫 To contact me. 
+- 📫 To contact me, please email diyaoluking@gmail.com 
 - 😄 Pronouns: he/him. 
   
 
