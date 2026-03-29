@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K1ngzzzz
+- 👋 Hi, I’m King David
 - 👀 I’m interested in Tech and Fintech
 - 🌱 I’m currently learning the basics python, with future plans to also learn javascript and other languages
 - 💞️ I’m looking to collaborate on any basic projects to get started in my coding journey.
